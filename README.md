@@ -1,7 +1,7 @@
 # **Get_next_line**
 
 ### **Description**  
-get_next_line is a function allowing us to read a file one line at a time.
+get_next_line is a function that enables reading a file line by line.
 
 ---
 
