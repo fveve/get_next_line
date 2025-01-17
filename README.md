@@ -1,14 +1,7 @@
-# **Project Name**
+# **Get_next_line**
 
 ### **Description**  
-Briefly describe the project and its purpose.  
-E.g., "A simple shell implementation that supports basic commands, pipes, and redirections."
-
----
-
-### **Features**  
-- List key features or functionalities of the project.  
-- Mention any significant challenges solved or algorithms implemented.
+get_next_line is a function allowing us to read a file one line at a time.
 
 ---
 
@@ -16,13 +9,5 @@ E.g., "A simple shell implementation that supports basic commands, pipes, and re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/fveve/get_next_line.git
    cd project-name
-
-2. Compile the project:
-   ```bash
-   make
-
-3. How to run the project:
-   ```bash
-   ./project [arguments]
