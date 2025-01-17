@@ -10,4 +10,4 @@ get_next_line is a function allowing us to read a file one line at a time.
 1. Clone the repository:
    ```bash
    git clone https://github.com/fveve/get_next_line.git
-   cd project-name
+   cd get_next_line
